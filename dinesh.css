@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.dinesh{
+    position: relative;
+    padding-right: 800px;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: white;   
+}
+nav{
+    display:flex;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+nav ul li{
+    width: auto;
+    height: fit-content;
+    display : inline-block;
+    list-style-type: none;
+    padding: 2px;
+    background-color: rgb(126, 252, 80);
+    margin: 5px;
+    text-decoration: none;
+    justify-content: space-evenly;
+    text-shadow: 30px;
+    
+
+}
+span{
+    color: blueviolet;
+}
